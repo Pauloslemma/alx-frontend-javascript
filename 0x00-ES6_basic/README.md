@@ -1,1 +1,1 @@
-This project is fr frontend 
+# 0x00. ES6 Basics
